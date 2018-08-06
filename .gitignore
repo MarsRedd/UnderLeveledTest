@@ -1,0 +1,18 @@
+#########################################
+####### UNREAL GENERATED FILES ##########
+#########################################
+*/Build
+*/Binaries
+*/DerivedDataCache
+*/Intermediate
+*/Saved
+EscapeGame/Content/StarterContent
+*/.vs
+
+#########################################
+######### VS GENERATED FILES ############
+#########################################
+*.VC.db
+*.suo
+*.VC.opendb
+*.sln
